@@ -24,7 +24,6 @@ fn main() {
 }
 
 const TEST_DATA: &[u8] = br#"
-$--GGA,hhmmss.ss,llll.lll,a,yyyyy.yyy,a,x,uu,v.v,w.w,M,x.x,M,,zzzz*hh<CR><LF>
 $GNGGA,181604.00,llll.lll,a,yyyy.yyy,a,0,00,99.99,w.w,M,x.x,M,,*72
 $GNVTG,,,,,,,,,N*2E
 $GNGNS,181604.00,,,,,NN,00,99.99,,,,*59
