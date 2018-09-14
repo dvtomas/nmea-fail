@@ -1,0 +1,8 @@
+[package]
+name = "nmea-fail"
+version = "0.0.0"
+authors = ["Tomas Dvorak <dvtomas@gmail.com>"]
+
+[dependencies]
+
+nmea = "0.0.7"
